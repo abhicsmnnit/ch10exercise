@@ -1,5 +1,5 @@
 # Exercises
-These are the exercises from the the 10th chapter of the book Learning Go by Jon Bodner.
+These are the exercises from the 10th chapter of the book Learning Go by Jon Bodner.
 Source: https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/ch10.html#id351
 
 * Create a module in your own public repository. This module has a single function named Add with two int parameters and one int return value. This function adds the two parameters together and returns them. Make this version v1.0.0.
